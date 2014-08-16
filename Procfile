@@ -1,1 +1,1 @@
-web: gunicorn lordapp.wsgi --log-file -
+web: gunicorn lorddapp.wsgi --log-file -
